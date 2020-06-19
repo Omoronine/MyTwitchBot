@@ -1,0 +1,12 @@
+{
+    "BouyomichanConfig":
+    {
+        "Host":"127.0.0.1",
+        "Port":51001,
+        "ByteCode":0,
+        "Voice":1,
+        "Volume":-1,
+        "Speed":-1,
+        "Tone":-1
+    }
+}

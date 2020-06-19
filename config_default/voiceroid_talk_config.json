@@ -1,0 +1,20 @@
+{
+    "Command":"!voice",
+    "UserMacro":"@user@",
+    "VoiceMacro":"@voice@",
+    "UserDataFileName":"\\userdata\\to_voiceroid_talk_save.json",
+    "IsCallName":false ,
+    "SuccessMessage":"/me @user@さんの読み上げ音声を@voice@に変更しました。",
+    "HelpMessage":"/me 【!voice 音声名】選択した音声で読み上げます。設定可能：",
+    "Default": "紲星あかり" ,
+    "VoiceList": {
+        "東北きりたん":"x) ",
+        "琴葉 茜":"ak) ",
+        "琴葉 葵":"ao) ",
+        "結月ゆかり":"y) ",
+        "紲星あかり":"a) ",
+        "東北イタコ":"it) ",
+        "ついなちゃん（標準語）":"t) ",
+        "ついなちゃん（関西弁）":"tk) "
+    }
+}
